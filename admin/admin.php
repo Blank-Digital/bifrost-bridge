@@ -3,6 +3,8 @@
  * The Admin module.
  * Strongly inspired by the vip-decoupled bundle from Automattic.
  *
+ * @see https://github.com/Automattic/vip-decoupled-bundle/blob/trunk/admin/admin.php
+ *
  * @package bifrost-bridge
  */
 
